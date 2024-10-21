@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Domestika Theme','report-msgid-bugs-to'=>'','pot-creation-date'=>'2024-10-21 05:48+0000','po-revision-date'=>'2024-10-21 05:55+0000','last-translator'=>'','language-team'=>'Español de Perú','language'=>'es_PE','plural-forms'=>'nplurals=2; plural=n != 1;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.11; wp-6.6.2','x-domain'=>'domestika','messages'=>['Make with Wordpress'=>'Hecho con Wordpress']];
